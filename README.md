@@ -1,5 +1,5 @@
-# RedNoise
+# Computer Graphics
 
 
-# link to video
-# https://youtu.be/7LEuVXbC8b8
+## link to video
+## https://youtu.be/xAqz5AzGVYk
